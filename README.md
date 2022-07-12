@@ -6,11 +6,7 @@
 
 ###
 
-<p align="left">*   🌍  I'm based in São Paulo, SP - Brazil<br>*   🧠  I'm learning React and Python<br>*   ⚡  When I'm not coding, I try to be a top level athlete. Full-time Kanye West stan<br>*   ✉️  You can contact me at [joaovkhouri@gmail.com](mailto:joaovkhouri@gmail.com)</p>
-<a href="https://www.twitter.com/champagnekhouri" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/champagnekhouri?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"/></a>
-<a href="https://www.twitch.tv/nerokhouri" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitch/status/nerokhouri?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<p align="left">*   🌍  I'm based in São Paulo, SP - Brazil<br>*   🧠  I'm learning React and Python<br>*   ⚡  When I'm not coding, I try to be a top level athlete. Full-time Kanye West stan</p>
 
 ###
 
@@ -22,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
 
 ###
@@ -42,18 +39,6 @@
   </a>
   <a href="https://www.twitch.tv/nerokhouri" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-</div>
-
-###
-
-<img href="https://raw.githubusercontent.com/joaokhouri/joaokhouri/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/joao.khouri">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
