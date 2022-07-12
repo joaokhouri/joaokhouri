@@ -43,5 +43,4 @@
 </div>
 
 ###
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=joao.khouri&cover_image=true&theme=novatorem&bar_color=2e2e2e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=joao.khouri&redirect=true)
